@@ -223,3 +223,5 @@ Bigthank's to kaliboxteamchina@live.com that purchase & email us. <br>
 Bigthank's to happyjoke_lib@z-lib.onion that purchase & email us. <br>
 Bigthank's to gorge.stefano@outlook.com that purchase & email us. <br>
 Bigthank's to maria.stephan@pm.me that purchase & email us. <br>
+
+#### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
