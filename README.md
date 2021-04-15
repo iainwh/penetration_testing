@@ -221,3 +221,5 @@ For more information on the Internet, search for "Bitcoin account creation tutor
 BigThank's to martin.soro@yahoo.com that purchased & email us. <br>
 Bigthank's to kaliboxteamchina@live.com that purchase & email us. <br>
 Bigthank's to happyjoke_lib@z-lib.onion that purchase & email us. <br>
+Bigthank's to gorge.stefano@outlook.com that purchase & email us. <br>
+Bigthank's to maria.stephan@pm.me that purchase & email us. <br>
