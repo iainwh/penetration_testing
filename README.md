@@ -266,6 +266,4 @@ Bigthank's to panahita_group_iraniancyberteam@live.com that purchase & email us.
 Bigthank's to russiateam@redhat.onion that purchase & email us. <br>
 
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
-##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> 
-In the near future Some Security powerpoint will be added 
-<img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br
+##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> In the near future Some Security powerpoint will be added <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br>
