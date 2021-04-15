@@ -262,5 +262,7 @@ Bigthank's to gorge.stefano@outlook.com that purchase & email us. <br>
 Bigthank's to maria.stephan@pm.me that purchase & email us. <br>
 Bigthank's to jacobstephany@outlook.com that purchase & email us. <br>
 Bigthank's to markjoes5@yahoo.com that purchase & email us. <br>
+Bigthank's to panahita_group_iraniancyberteam@live.com that purchase & email us. <br>
+Bigthank's to russiateam@redhat.onion that purchase & email us. <br>
 
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
