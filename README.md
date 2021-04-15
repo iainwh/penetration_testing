@@ -204,6 +204,41 @@
 ♙ Violent Python - A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers by TJ O_Connor<br>
 ♙ Youtube Algorithms Hack the Youtube Algorithm  Pro Guide on How to Make Money Online Using your Youtube Channel<br>
 
+### cryptography & cipher
+♗ Advanced Persistent Threat Hacking The Art and Science of Hacking Any Organization by Tyler Wrightson<br>
+♗ Applied Cryptography Protocols, Algorithms and Source Code in C by Bruce Schneier<br>
+♗ Blockchain technologies and Crypto-currencies by Johan Pehcevski<br>
+♗ CEH v10 - 2019 by F3thinker<br>
+♗ Cracking DES Secrets of Encryption Research, Wiretap Politics  Chip Design by Electronic Frontier Foundation<br>
+♗ Cryptanalysis of RSA and Its Variants by M. Jason Hinek<br>
+♗ Cryptography Theory And Practice by Douglas Stinson<br>
+♗ Demystifying the IPSec Puzzle by Sheila Frankel<br>
+♗ Digital image watermarking theoretical and computational advances by Borra, Surekha Dey, Nilanjan Thanki, Rohit<br>
+♗ Digital Media Steganography Principles, Algorithms, and Advances by Mahmoud Hassaballah<br>
+♗ Digital Watermarking and Steganography  Fundamentals and Techniques by Shih, Frank Y<br>
+♗ Digital Watermarking and Steganography Fundamentals and Techniques by Frank Y. Shih<br>
+♗ Feistel Ciphers Security Proofs and Cryptanalysis by Valerie Nachef, Jacques Patarin, Emmanuel Volte<br>
+♗ Grokking Bitcoin by Kalle Rosenbaum<br>
+♗ Hacker’s Elusive Thoughts The Web by Gerasimos Kassaras<br>
+♗ Handbook of Image-based Security Techniques by Agarwal, Suneeta Shivani, Shivendra Suri, Jasjit S<br>
+♗ Hiding in Plain Sight Steganography and the Art of Covert Communication by Eric Cole<br>
+♗ Implementing Cryptography Using Python by Shannon Bray<br>
+♗ IPSec by Naganand Doraswamy<br>
+♗ IPSec The New Security Standard for the Internet, Intranets, and Virtual Private Networks by Naganand Doraswamy, Dan Harkins<br>
+♗ IPSec the new security standart for the internet, intranets and virtual private networks by Doraswamy, Naganand Harkins, Dan<br>
+♗ Malware Von Viren, Würmern, Hackern und Trojanern und wie man sich vor ihnen schützt by Eugene Kaspersky<br>
+♗ Noiseless Steganography The Key to Covert Communications by Abdelrahman Desoky<br>
+♗ Reversible Steganography and Authentication via Transform Encoding by Jyotsna Kumar Mandal<br>
+♗ RSA and Public-Key Cryptography by Richard A. Mollin<br>
+♗ Security of Block Ciphers From Algorithm Design to Hardware Implementation by Kazuo Sakiyama, Yu Sasaki, Yang Li<br>
+♗ Steganography in Digital Media Principles, Algorithms, and Applications by Jessica Fridrich<br>
+♗ Surreptitious Software Obfuscation, Watermarking, and Tamperproofing for Software Protection by Christian Collberg, Jasvir Nagra<br>
+♗ The Block Cipher Companion by Lars R. Knudsen, Matthew J.B. Robshaw<br>
+♗ The Design Of Rijndael The Advanced Encryption Standard (AES) by Joan Daemen, Vincent Rijmen<br>
+♗ The Mathematics of Secrets Cryptography from Caesar Ciphers to Digital Encryption by Joshua Holden<br>
+♗ VPNs Illustrated Tunnels, VPNs, and IPsec by Jon C. Snader<br>
+♗ Watermarking Techniques for Copyright Protection of Videos by Ashish M. Kothari, Vedvyas Dwivedi, Rohit M. Thanki<br>
+
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
 > 💰💰 Donate $5 (USD) to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
