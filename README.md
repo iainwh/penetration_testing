@@ -167,6 +167,39 @@ _____________________
 ♕ Wicked Cool Shell Scripts 101 Scripts for Linux, OS X, and UNIX Systems by Dave Taylor, Brandon Perry<br>
 ♕ Write Portable Code An Introduction to Developing Software for Multiple Platforms by Brian Hook<br>
 
+### Island Box
+♚ Advanced Compiler Design and Implementation by Steven S. Muchnick<br>
+♚ Compilers Principles Techniques And Tools by by Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman<br>
+♚ Compilers Principles, Techniques, and Tools by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman<br>
+♚ Deno - A Complete Guide to Programming With Deno by Jana Bergant<br>
+♚ Get Programming with Go by Nathan Youngman, Roger Peppé<br>
+♚ Git Learn Version Control with Git A step-by-step Ultimate beginners Guide by Hutten, Dennis<br>
+♚ GIT The Ultimate Guide for Beginners to Learn Git Version Control by Jameson Garner<br>
+♚ Implementing SSLTLS Using Cryptography and PKI by Joshua Davies<br>
+♚ Introduction to Automata Theory, Languages, and Computations by John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman<br>
+♚ JavaScript The Definitive Guide Master the Worlds Most-Used Programming Language by David Flanagan<br>
+♚ Malicious Cryptography Exposing Cryptovirology by Adam Young, Moti Yung<br>
+♚ Modern Compiler Design by Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen<br>
+♚ Modern Javascript for the Impatient by Cay S. Horstmann<br>
+♚ Network Security with OpenSSL by John Viega, Matt Messier, Pravir Chandra<br>
+♚ Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin<br>
+♚ Pki Implementing and Managing E-Security by Andrew Nash ,Derek Brink ,William Duane<br>
+♚ PowerShell 7 for IT Pros by Thomas Lee<br>
+♚ PowerShell Cookbook, 4th Edition by Lee Holmes<br>
+♚ Practical cryptography by Niels Ferguson, Bruce Schneier<br>
+♚ Practical Cryptography for Developers by it-ebooks<br>
+♚ Public Key Infrastructure and Implementation and Design by Suranjan Choudhury<br>
+♚ Python for Excel by Felix Zumstein<br>
+♚ Secrets of the JavaScript Ninja by John Resig, Bear Bibeault, Josip Maras<br>
+♚ SSH, The Secure Shell The Definitive Guide by Daniel J. Barrett, Richard E. Silverman, Robert G. Byrnes<br>
+♚ SSL  TLS Essentials Securing the Web by Stephen A. Thomas<br>
+♚ The compiler design handbook optimizations and machine code generation by Y.N. Srikant, Priti Shankar-new<br>
+♚ The compiler design handbook optimizations and machine code generation by Y.N. Srikant, Priti Shankar<br>
+♚ The Cyber Plumber’s Handbook The definitive guide to SSH tunneling, port redirection, and bending traffic like a boss. by Brennon Thomas<br>
+♚ The Definitive ANTLR 4 Reference, 2nd Edition by Terence Parr<br>
+♚ The Grumpy Programmers PHPUnit Cookbook by Chris Hartjes<br>
+♚ Writing an interpreter in Go by Thorsten Ball<br>
+
 ### AWS repo
 ♚ Advanced Persistent Threat Hacking The Art and Science of Hacking Any Organization by Tyler Wrightson<br>
 ♚ Breaking and Entering The Extraordinary Story of a Hacker Called Alien by Jeremy Smith<br>
