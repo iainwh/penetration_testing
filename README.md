@@ -7,7 +7,7 @@ _____________________
 _____________________
 ☕ Practical Binary Analysis
 > https://practicalbinaryanalysis.com/
-
+> https://github.com/nakov/practical-cryptography-for-developers-book
 
 ### Our Books👌
 <img src="https://splianel.sirv.com/cap1.JPG">
