@@ -1,8 +1,10 @@
 # penetration testing Book🎁 (2020, 2021, old best ever)
 ### Hi, every one
 ### We have collected a series of books that are new and useful, they are also paid on online sites, but we put them here for free
-
-
+_____________________
+### ⚠️ Attention ⚠️
+#### So that such books do not fall into the hands of everyone and are not used criminally, We decided to encrypt all books and protect the rights of publishers. This internet link (git page) has been created to help the growth of science and to be used only in positive directions. The publishers of this link are not members of any organization or group and have scientific purposes.
+_____________________
 ☕ Practical Binary Analysis
 > https://practicalbinaryanalysis.com/
 
@@ -15,6 +17,10 @@
 <img src="https://splianel.sirv.com/cap3.JPG">
 <br>
 <img src="https://splianel.sirv.com/cap4.JPG">
+<br>
+<img src="https://splianel.sirv.com/cap5.JPG">
+<br>
+<img src="https://splianel.sirv.com/cap6.JPG">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
@@ -161,6 +167,39 @@
 ♕ Wicked Cool Shell Scripts 101 Scripts for Linux, OS X, and UNIX Systems by Dave Taylor, Brandon Perry<br>
 ♕ Write Portable Code An Introduction to Developing Software for Multiple Platforms by Brian Hook<br>
 
+### Island Box
+♚ Advanced Compiler Design and Implementation by Steven S. Muchnick<br>
+♚ Compilers Principles Techniques And Tools by by Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman<br>
+♚ Compilers Principles, Techniques, and Tools by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman<br>
+♚ Deno - A Complete Guide to Programming With Deno by Jana Bergant<br>
+♚ Get Programming with Go by Nathan Youngman, Roger Peppé<br>
+♚ Git Learn Version Control with Git A step-by-step Ultimate beginners Guide by Hutten, Dennis<br>
+♚ GIT The Ultimate Guide for Beginners to Learn Git Version Control by Jameson Garner<br>
+♚ Implementing SSLTLS Using Cryptography and PKI by Joshua Davies<br>
+♚ Introduction to Automata Theory, Languages, and Computations by John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman<br>
+♚ JavaScript The Definitive Guide Master the Worlds Most-Used Programming Language by David Flanagan<br>
+♚ Malicious Cryptography Exposing Cryptovirology by Adam Young, Moti Yung<br>
+♚ Modern Compiler Design by Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen<br>
+♚ Modern Javascript for the Impatient by Cay S. Horstmann<br>
+♚ Network Security with OpenSSL by John Viega, Matt Messier, Pravir Chandra<br>
+♚ Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin<br>
+♚ Pki Implementing and Managing E-Security by Andrew Nash ,Derek Brink ,William Duane<br>
+♚ PowerShell 7 for IT Pros by Thomas Lee<br>
+♚ PowerShell Cookbook, 4th Edition by Lee Holmes<br>
+♚ Practical cryptography by Niels Ferguson, Bruce Schneier<br>
+♚ Practical Cryptography for Developers by it-ebooks<br>
+♚ Public Key Infrastructure and Implementation and Design by Suranjan Choudhury<br>
+♚ Python for Excel by Felix Zumstein<br>
+♚ Secrets of the JavaScript Ninja by John Resig, Bear Bibeault, Josip Maras<br>
+♚ SSH, The Secure Shell The Definitive Guide by Daniel J. Barrett, Richard E. Silverman, Robert G. Byrnes<br>
+♚ SSL  TLS Essentials Securing the Web by Stephen A. Thomas<br>
+♚ The compiler design handbook optimizations and machine code generation by Y.N. Srikant, Priti Shankar-new<br>
+♚ The compiler design handbook optimizations and machine code generation by Y.N. Srikant, Priti Shankar<br>
+♚ The Cyber Plumber’s Handbook The definitive guide to SSH tunneling, port redirection, and bending traffic like a boss. by Brennon Thomas<br>
+♚ The Definitive ANTLR 4 Reference, 2nd Edition by Terence Parr<br>
+♚ The Grumpy Programmers PHPUnit Cookbook by Chris Hartjes<br>
+♚ Writing an interpreter in Go by Thorsten Ball<br>
+
 ### AWS repo
 ♚ Advanced Persistent Threat Hacking The Art and Science of Hacking Any Organization by Tyler Wrightson<br>
 ♚ Breaking and Entering The Extraordinary Story of a Hacker Called Alien by Jeremy Smith<br>
@@ -238,6 +277,45 @@
 ♗ The Mathematics of Secrets Cryptography from Caesar Ciphers to Digital Encryption by Joshua Holden<br>
 ♗ VPNs Illustrated Tunnels, VPNs, and IPsec by Jon C. Snader<br>
 ♗ Watermarking Techniques for Copyright Protection of Videos by Ashish M. Kothari, Vedvyas Dwivedi, Rohit M. Thanki<br>
+
+### Model Driven (Software Design)
+♖ POSA (vol 1 to vol 5)<br>
+♖ A Pattern Language Towns, Buildings, Construction (Cess  Center for Environmental) by Christopher Alexander, Sara Ishikawa, Murray Silverstein<br>
+♖ Beyond Software Architecture Creating and Sustaining Winning Solutions by Luke Hohmann<br>
+♖ Common warehouse metamodel an introduction to the standard for data warehouse integration by John Poole, Dan Chang, Douglas Tolbert, David Mellor<br>
+♖ Designing Interfaces Patterns for Effective Interaction Design by Jenifer Tidwell, Charles Brewer, Aynne Valencia_Compressed<br>
+♖ Dive Into Design Patterns by Alexander Shvets<br>
+♖ Dive Into Refactoring by Alexander Shvets<br>
+♖ Domain-Driven Design in PHP by Carlos Buenosvinos<br>
+♖ Domain-Driven Design Quickly by Abel Avram, Floyd Marinescu<br>
+♖ Domain-Driven Design Tackling Complexity in the Heart of Software by Eric Evans<br>
+♖ Domain-Driven Design The First 15 Years Essays from the DDD Community by Leanpub book<br>
+♖ Domain-Specific Languages by Martin Fowler<br>
+♖ Domain-Specific Modeling by Steven Kelly, Juha-Pekka Tolvanen<br>
+♖ Eclipse Modeling Project A Domain-Specific Language (DSL) Toolkit by Richard C. Gronback<br>
+♖ Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions A Martin Fowler Signature Book<br>
+♖ Enterprise Patterns and MDA Building Better Software with Archetype Patterns and UML by Jim Arlow, Ila Neustadt<br>
+♖ Fundamentals of Software Architecture An Engineering Approach by Mark Richards Neal Ford<br>
+♖ Head First Design Patterns Building Extensible and Maintainable Object-Oriented Software by Eric Freeman, Elisabeth Robson<br>
+♖ Implementing Domain-Driven Design by Vaughn Vernon<br>
+♖ Just Enough Software Architecture A Risk-Driven Approach by George H. Fairbanks<br>
+♖ Language Implementation Patterns Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)<br>
+♖ Model-Driven Domain Analysis and Software Development Architectures and Functions by Janis Osis, Janis Osis, Erika Asnina<br>
+♖ Model-Driven Software Development Technology, Engineering, Management by Thomas Stahl, Markus  Voelter, Krzysztof Czarnecki<br>
+♖ Object Constraint Language, The Getting Your Models Ready for MDA by Jos Warmer, Anneke Kleppe<br>
+♖ Patterns of Enterprise Application Architecture by Martin Fowler<br>
+♖ Real-Life MDA Solving Business Problems with Model Driven Architecture by Michael Guttman, John Parodi<br>
+♖ Real-World Software Development - A Project-Driven Guide to Fundamentals in Java. by Raoul-Gabriel Urma, Richard Warburton<br>
+♖ Refactoring at Scale Regaining Control of Your Codebase by Maude Lemaire<br>
+♖ Refactoring for Software Design Smells Managing Technical Debt by Girish Suryanarayana, Ganesh Samarthyam, Tushar Sharma<br>
+♖ Refactoring Improving the Design of Existing Code by Martin Fowler<br>
+♖ Software Architecture for Developers by Simon Brown<br>
+♖ Software Architecture for Developers Vol 1 Technical leadership and the balance with agility by Simon Brown<br>
+♖ Software Architecture for Developers Vol 2 Visualise, document and explore your software architecture by Simon Brown<br>
+♖ Software Engineering at Google by Hyrum Wright, Tom Manshreck, Titus Winters<br>
+♖ Software Evolution With UML and XML by Hongji Yang<br>
+♖ Software Language Engineering Creating Domain-Specific Languages Using Metamodels by Anneke Kleppe<br>
+♖ Storytelling in Design Defining, Designing, and Selling Multidevice Products by Anna Dahlström<br>
 
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
