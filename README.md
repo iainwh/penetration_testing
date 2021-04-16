@@ -278,6 +278,45 @@ _____________________
 ♗ VPNs Illustrated Tunnels, VPNs, and IPsec by Jon C. Snader<br>
 ♗ Watermarking Techniques for Copyright Protection of Videos by Ashish M. Kothari, Vedvyas Dwivedi, Rohit M. Thanki<br>
 
+### Model Driven (Software Design)
+♖ POSA (vol 1 to vol 5)<br>
+♖ A Pattern Language Towns, Buildings, Construction (Cess  Center for Environmental) by Christopher Alexander, Sara Ishikawa, Murray Silverstein<br>
+♖ Beyond Software Architecture Creating and Sustaining Winning Solutions by Luke Hohmann<br>
+♖ Common warehouse metamodel an introduction to the standard for data warehouse integration by John Poole, Dan Chang, Douglas Tolbert, David Mellor<br>
+♖ Designing Interfaces Patterns for Effective Interaction Design by Jenifer Tidwell, Charles Brewer, Aynne Valencia_Compressed<br>
+♖ Dive Into Design Patterns by Alexander Shvets<br>
+♖ Dive Into Refactoring by Alexander Shvets<br>
+♖ Domain-Driven Design in PHP by Carlos Buenosvinos<br>
+♖ Domain-Driven Design Quickly by Abel Avram, Floyd Marinescu<br>
+♖ Domain-Driven Design Tackling Complexity in the Heart of Software by Eric Evans<br>
+♖ Domain-Driven Design The First 15 Years Essays from the DDD Community by Leanpub book<br>
+♖ Domain-Specific Languages by Martin Fowler<br>
+♖ Domain-Specific Modeling by Steven Kelly, Juha-Pekka Tolvanen<br>
+♖ Eclipse Modeling Project A Domain-Specific Language (DSL) Toolkit by Richard C. Gronback<br>
+♖ Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions A Martin Fowler Signature Book<br>
+♖ Enterprise Patterns and MDA Building Better Software with Archetype Patterns and UML by Jim Arlow, Ila Neustadt<br>
+♖ Fundamentals of Software Architecture An Engineering Approach by Mark Richards Neal Ford<br>
+♖ Head First Design Patterns Building Extensible and Maintainable Object-Oriented Software by Eric Freeman, Elisabeth Robson<br>
+♖ Implementing Domain-Driven Design by Vaughn Vernon<br>
+♖ Just Enough Software Architecture A Risk-Driven Approach by George H. Fairbanks<br>
+♖ Language Implementation Patterns Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)<br>
+♖ Model-Driven Domain Analysis and Software Development Architectures and Functions by Janis Osis, Janis Osis, Erika Asnina<br>
+♖ Model-Driven Software Development Technology, Engineering, Management by Thomas Stahl, Markus  Voelter, Krzysztof Czarnecki<br>
+♖ Object Constraint Language, The Getting Your Models Ready for MDA by Jos Warmer, Anneke Kleppe<br>
+♖ Patterns of Enterprise Application Architecture by Martin Fowler<br>
+♖ Real-Life MDA Solving Business Problems with Model Driven Architecture by Michael Guttman, John Parodi<br>
+♖ Real-World Software Development - A Project-Driven Guide to Fundamentals in Java. by Raoul-Gabriel Urma, Richard Warburton<br>
+♖ Refactoring at Scale Regaining Control of Your Codebase by Maude Lemaire<br>
+♖ Refactoring for Software Design Smells Managing Technical Debt by Girish Suryanarayana, Ganesh Samarthyam, Tushar Sharma<br>
+♖ Refactoring Improving the Design of Existing Code by Martin Fowler<br>
+♖ Software Architecture for Developers by Simon Brown<br>
+♖ Software Architecture for Developers Vol 1 Technical leadership and the balance with agility by Simon Brown<br>
+♖ Software Architecture for Developers Vol 2 Visualise, document and explore your software architecture by Simon Brown<br>
+♖ Software Engineering at Google by Hyrum Wright, Tom Manshreck, Titus Winters<br>
+♖ Software Evolution With UML and XML by Hongji Yang<br>
+♖ Software Language Engineering Creating Domain-Specific Languages Using Metamodels by Anneke Kleppe<br>
+♖ Storytelling in Design Defining, Designing, and Selling Multidevice Products by Anna Dahlström<br>
+
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
 > 💰💰 Donate $5 (USD) to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
