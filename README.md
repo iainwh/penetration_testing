@@ -17,6 +17,10 @@ _____________________
 <img src="https://splianel.sirv.com/cap3.JPG">
 <br>
 <img src="https://splianel.sirv.com/cap4.JPG">
+<br>
+<img src="https://splianel.sirv.com/cap5.JPG">
+<br>
+<img src="https://splianel.sirv.com/cap6.JPG">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
