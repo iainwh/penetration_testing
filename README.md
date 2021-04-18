@@ -350,7 +350,7 @@ Bigthank's to colahyper@viko.onion that purchase & email us. <br>
 Bigthank's to artorozen_pop@gmail.com that purchase & email us. <br>
 Bigthank's to cxde@protonmail.ch that purchase & email us. <br>
 gift to flertishia_joesking@dropmail.onion. <br>
-git to kiatel@kotenberg.ja. <br>
+gift to kiatel@kotenberg.ja. <br>
 @5 auther mail us and wants our library (We send them as gift). <br>
 
 
