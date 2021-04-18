@@ -1,4 +1,6 @@
-# penetration testing Book🎁 (2020, 2021, old best ever)
+# penetration testing Book🎩 (2020, 2021, old best ever)
+<img src="https://splianel.sirv.com/cloud9020locki.png" width="540" height="304" alt="" />
+
 ### Hi, every one
 ### We have collected a series of books that are new and useful, they are also paid on online sites, but we put them here for free
 _____________________
@@ -6,8 +8,8 @@ _____________________
 #### So that such books do not fall into the hands of everyone and are not used criminally, We decided to encrypt all books and protect the rights of publishers. This internet link (git page) has been created to help the growth of science and to be used only in positive directions. The publishers of this link are not members of any organization or group and have scientific purposes.
 _____________________
 ☕ Practical Binary Analysis
-> https://practicalbinaryanalysis.com/
-
+> https://practicalbinaryanalysis.com/ <br>
+> https://github.com/nakov/practical-cryptography-for-developers-book
 
 ### Our Books👌
 <img src="https://splianel.sirv.com/cap1.JPG">
@@ -24,7 +26,7 @@ _____________________
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
-#### mrt.mycloud@gmail.com 🇮🇷  or Oysten.fred@outlook.com 🇳🇴
+#### cloud.locki9020@gmail.com 🇮🇷  or Oysten.fred@outlook.com 🇳🇴
 #### (If you are an author, be sure to enter the phrase "I am the author" in the subject line of your email)
 
 ### Main dir
@@ -319,7 +321,7 @@ _____________________
 
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
-> 💰💰 Donate $5 (USD) to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
+> 💰💰 Donate $5 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. If payment link was broken, you can notify us, we were check it as soon as possible.thank's <br>
 <a href="https://vendor.cryptopayment.link/p/tSe0h0WX">
     <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
     <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
@@ -342,7 +344,18 @@ Bigthank's to jacobstephany@outlook.com that purchase & email us. <br>
 Bigthank's to markjoes5@yahoo.com that purchase & email us. <br>
 Bigthank's to panahita_group_iraniancyberteam@live.com that purchase & email us. <br>
 Bigthank's to russiateam@redhat.onion that purchase & email us. <br>
+Bigthank's to josefKings@protomail.io that purchase & email us. <br>
+Bigthank's to MarksFlipton2@outlook.com that purchase & email us. <br>
+Bigthank's to colahyper@viko.onion that purchase & email us. <br>
+Bigthank's to artorozen_pop@gmail.com that purchase & email us. <br>
+Bigthank's to cxde@protonmail.ch that purchase & email us. <br>
+gift to flertishia_joesking@dropmail.onion. <br>
+gift to kiatel@kotenberg.ja. <br>
+@5 auther mail us and wants our library (We send them as gift). <br>
 
 
 ##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> In the near future Some Security powerpoint will be added <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br>
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
+
+#### @A pure poem by Saadi Shirazi
+<img src="https://splianel.sirv.com/saadi%20shirazi.JPG" width="430" height="142" alt="saadi shirazi" /><br>
