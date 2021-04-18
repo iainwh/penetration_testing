@@ -354,4 +354,4 @@ gift to flertishia_joesking@dropmail.onion. <br>
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
 
 #### @A pure poem by Saadi Shirazi
-<br><img src="https://splianel.sirv.com/saadi%20shirazi.JPG" width="430" height="142" alt="saadi shirazi" /><br>
+<img src="https://splianel.sirv.com/saadi%20shirazi.JPG" width="430" height="142" alt="saadi shirazi" /><br>
