@@ -352,3 +352,5 @@ gift to flertishia_joesking@dropmail.onion. <br>
 
 ##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> In the near future Some Security powerpoint will be added <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br>
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
+
+<br><img src="https://splianel.sirv.com/saadi%20shirazi.JPG" width="180" height="62" alt="" /><br>
