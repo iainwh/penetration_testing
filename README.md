@@ -357,5 +357,4 @@ gift to kiatel@kotenberg.ja. <br>
 ##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> In the near future Some Security powerpoint will be added <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br>
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
 
-#### @A pure poem by Saadi Shirazi
-<img src="https://splianel.sirv.com/saadi%20shirazi.JPG" width="430" height="142" alt="saadi shirazi" /><br>
+<img src="https://splianel.sirv.com/bug.jpg" width="2520" height="945" alt="" /><br>
