@@ -13,19 +13,12 @@ _____________________
 
 ### Our Books👌
 <img src="https://splianel.sirv.com/cap1.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/cap2.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/cap3.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/cap4.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/cap5.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/cap6.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/7.JPG">
-🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
 <img src="https://splianel.sirv.com/8.JPG">
 
 #### Big thank's to My best Friend "Oysten" from Norway
