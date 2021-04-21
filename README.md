@@ -321,19 +321,6 @@
 
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
-> 💰💰 Donate $10 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. If payment link was broken, you can notify us, we were check it as soon as possible.thank's <br>
-<a href="https://vendor.cryptopayment.link/p/O9navZgV">
-    <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
-    <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
-</a>
-
-### Don't know What is Bitcoin/Ethereum?! (Ok, I will tell you)
-If you are unfamiliar with the Bitcoin and Ethereum payment system, read the following:
-To create a Bitcoin and Ethereum account, you can go to http://blockchain.com and then create an account.<br>
-Then you can directly increase the credit of your wallet account <br> (if you are in a country like Iran that is under sanctions, you can increase your account through an exchange office or deposit directly to the payment address).<br>
-Finally, pay the deposit amount to the Bitcoin or Ethereum address introduced by us and send us email as we mentioned before.
-For more information on the Internet, search for "Bitcoin account creation tutorial"
-
 ### 🎩Good News🎩<br>
 BigThank's to martin.soro@yahoo.com that purchased & email us. <br>
 Bigthank's to kaliboxteamchina@live.com that purchase & email us. <br>
@@ -362,7 +349,18 @@ gift to kiatel@kotenberg.ja. <br>
     Lucky~eggs!(sandBox}
 🎩 Other password is not free, you can buy them all with 10$ & get gift too.
 ```
+> 💰💰 Donate $10 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. If payment link was broken, you can notify us, we were check it as soon as possible.thank's <br>
+<a href="https://vendor.cryptopayment.link/p/O9navZgV">
+    <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
+    <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
+</a>
 
+### Don't know What is Bitcoin/Ethereum?! (Ok, I will tell you)
+If you are unfamiliar with the Bitcoin and Ethereum payment system, read the following:
+To create a Bitcoin and Ethereum account, you can go to http://blockchain.com and then create an account.<br>
+Then you can directly increase the credit of your wallet account <br> (if you are in a country like Iran that is under sanctions, you can increase your account through an exchange office or deposit directly to the payment address).<br>
+Finally, pay the deposit amount to the Bitcoin or Ethereum address introduced by us and send us email as we mentioned before.
+For more information on the Internet, search for "Bitcoin account creation tutorial"
 
 ##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> In the near future Some Security powerpoint will be added <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br>
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
