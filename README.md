@@ -1,5 +1,5 @@
 # penetration testing Book🎩 (2020, 2021, old best ever)
-<img src="https://splianel.sirv.com/cloud9020locki.png" width="540" alt="" />
+<img src="https://splianel.sirv.com/cloud9020locki.png" width="640" alt="" />
 
 ### Hi, every one
 ### We have collected a series of books that are new and useful, they are also paid on online sites, but we put them here for free
@@ -12,17 +12,17 @@ _____________________
 > https://github.com/nakov/practical-cryptography-for-developers-book
 
 ### Our Books👌
-<img src="https://splianel.sirv.com/cap1.JPG" width="540" alt="">
-<img src="https://splianel.sirv.com/cap2.JPG" width="540" alt="">
-<img src="https://splianel.sirv.com/cap3.JPG" width="540" alt="">
-<img src="https://splianel.sirv.com/cap4.JPG" width="540" alt="">
-<img src="https://splianel.sirv.com/cap5.JPG" width="540" alt="">
-<img src="https://splianel.sirv.com/cap6.JPG" width="540" alt="">
+<img src="https://splianel.sirv.com/cap1.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap2.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap3.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap4.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap5.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap6.JPG" width="640" alt="">
 
 ### ☕new Books 🍩 🍩 🍩
 
-<img src="https://splianel.sirv.com/7.JPG">
-<img src="https://splianel.sirv.com/8.JPG">
+<img src="https://splianel.sirv.com/7.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/8.JPG" width="640" alt="">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
