@@ -340,16 +340,7 @@ gift to flertishia_joesking@dropmail.onion. <br>
 gift to kiatel@kotenberg.ja. <br>
 @5 auther mail us and wants our library (We send them as gift). <br>
 
-```
-🎩 Here is password: Be happy :)
-    Lucky~eggs!(AWS repo}
-    Lucky~eggs!(Firend Books}
-    Lucky~eggs!(Main}
-    Lucky~eggs!(RestatHome}
-    Lucky~eggs!(sandBox}
-🎩 Other password is not free, you can buy them all with 10$ & get gift too.
-```
-> 💰💰 Donate $10 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. <br>
+> 💰💰 Donate $10 (USD) to get the password, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. <br>
 <a href="https://vendor.cryptopayment.link/p/O9navZgV">
     <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
     <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
