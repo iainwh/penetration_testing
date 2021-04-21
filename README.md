@@ -29,6 +29,7 @@
 #### cloud.locki9020@gmail.com 🇮🇷  or Oysten.fred@outlook.com 🇳🇴
 #### (If you are an author, be sure to enter the phrase "I am the author" in the subject line of your email)
 
+#### ☕use CTRL+F to find your book then go to repo & clone it.
 ### Main dir
 ♖ Advanced Penetration Testing - Hacking the World_s Most Secure Networks by Wil Allsopp <br>
 ♖ Android_Malware_and_Analysis<br>
@@ -318,8 +319,6 @@
 ♖ Software Evolution With UML and XML by Hongji Yang<br>
 ♖ Software Language Engineering Creating Domain-Specific Languages Using Metamodels by Anneke Kleppe<br>
 ♖ Storytelling in Design Defining, Designing, and Selling Multidevice Products by Anna Dahlström<br>
-
-#### ☕use CTRL+F to find your book then go to repo & clone it.
 
 ### 🎩Good News🎩<br>
 BigThank's to martin.soro@yahoo.com that purchased & email us. <br>
