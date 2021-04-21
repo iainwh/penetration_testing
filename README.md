@@ -349,7 +349,7 @@ gift to kiatel@kotenberg.ja. <br>
     Lucky~eggs!(sandBox}
 🎩 Other password is not free, you can buy them all with 10$ & get gift too.
 ```
-> 💰💰 Donate $10 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. If payment link was broken, you can notify us, we were check it as soon as possible.thank's <br>
+> 💰💰 Donate $10 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. <br>
 <a href="https://vendor.cryptopayment.link/p/O9navZgV">
     <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
     <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
