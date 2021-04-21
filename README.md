@@ -360,6 +360,7 @@ Lucky~eggs!(Firend Books}
 Lucky~eggs!(Main}
 Lucky~eggs!(RestatHome}
 Lucky~eggs!(sandBox}
+other password is not free, you can buy them all with 10$ & get gift too.
 ```
 
 
