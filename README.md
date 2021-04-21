@@ -12,12 +12,12 @@ _____________________
 > https://github.com/nakov/practical-cryptography-for-developers-book
 
 ### Our Books👌
-<img src="https://splianel.sirv.com/cap1.JPG">
-<img src="https://splianel.sirv.com/cap2.JPG">
-<img src="https://splianel.sirv.com/cap3.JPG">
-<img src="https://splianel.sirv.com/cap4.JPG">
-<img src="https://splianel.sirv.com/cap5.JPG">
-<img src="https://splianel.sirv.com/cap6.JPG">
+<img src="https://splianel.sirv.com/cap1.JPG" width="540" alt="">
+<img src="https://splianel.sirv.com/cap2.JPG" width="540" alt="">
+<img src="https://splianel.sirv.com/cap3.JPG" width="540" alt="">
+<img src="https://splianel.sirv.com/cap4.JPG" width="540" alt="">
+<img src="https://splianel.sirv.com/cap5.JPG" width="540" alt="">
+<img src="https://splianel.sirv.com/cap6.JPG" width="540" alt="">
 
 ### ☕new Books 🍩 🍩 🍩
 
