@@ -322,7 +322,7 @@
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
 > 💰💰 Donate $10 (USD) to get the password for all the books, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. If payment link was broken, you can notify us, we were check it as soon as possible.thank's <br>
-<a href="https://vendor.cryptopayment.link/p/tSe0h0WX">
+<a href="https://vendor.cryptopayment.link/p/O9navZgV">
     <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
     <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
 </a>
