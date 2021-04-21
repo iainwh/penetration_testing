@@ -353,6 +353,15 @@ gift to flertishia_joesking@dropmail.onion. <br>
 gift to kiatel@kotenberg.ja. <br>
 @5 auther mail us and wants our library (We send them as gift). <br>
 
+```
+Here is password: Be happy :)
+Lucky~eggs!(AWS repo}
+Lucky~eggs!(Firend Books}
+Lucky~eggs!(Main}
+Lucky~eggs!(RestatHome}
+Lucky~eggs!(sandBox}
+```
+
 
 ##### <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> In the near future Some Security powerpoint will be added <img src="https://splianel.sirv.com/attack.png" width="41" height="46" alt="" /> <br>
 #### Oysten tell me that "In the near future, a robot will be built for this repository" (Great Job!)
