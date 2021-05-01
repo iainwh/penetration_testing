@@ -19,6 +19,8 @@
 <img src="https://splianel.sirv.com/cap4.JPG" width="640" alt="">
 <img src="https://splianel.sirv.com/cap5.JPG" width="640" alt="">
 <img src="https://splianel.sirv.com/cap6.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap6.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/9.JPG" width="640" alt="">
 
 ### ☕new Books 🍩 🍩 🍩
 
