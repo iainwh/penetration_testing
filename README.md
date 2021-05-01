@@ -13,19 +13,18 @@
 > https://github.com/nakov/practical-cryptography-for-developers-book
 
 ### Our Books👌
-<img src="https://splianel.sirv.com/cap1.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/cap2.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/cap3.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/cap4.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/cap5.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/cap6.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/cap6.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/9.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/cap1.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/cap2.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/cap3.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/cap4.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/cap5.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/cap6.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/cap6.JPG" width="800" alt="">
 
 ### ☕new Books 🍩 🍩 🍩
-
-<img src="https://splianel.sirv.com/7.JPG" width="640" alt="">
-<img src="https://splianel.sirv.com/8.JPG" width="640" alt="">
+<img src="https://splianel.sirv.com/7.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/8.JPG" width="800" alt="">
+<img src="https://splianel.sirv.com/9.JPG" width="800" alt="">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
