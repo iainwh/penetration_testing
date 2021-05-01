@@ -26,7 +26,7 @@
 <img src="https://splianel.sirv.com/8.JPG" width="900" alt="">
 
 ### ☕No Strach Press Books 🍩 🍩 🍩
-<img src="https://splianel.sirv.com/9.JPG" width="900" alt="">
+<img src="https://splianel.sirv.com/9.JPG" width="1100" alt="">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
