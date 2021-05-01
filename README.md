@@ -341,7 +341,8 @@ Bigthank's to artorozen_pop@gmail.com that purchase & email us. <br>
 Bigthank's to cxde@protonmail.ch that purchase & email us. <br>
 gift to flertishia_joesking@dropmail.onion. <br>
 gift to kiatel@kotenberg.ja. <br>
-@5 auther mail us and wants our library (We send them as gift). <br>
+@32 auther mail us and wants our library (We send them as gift). <br>
+@26 people Buy it :) from us. Thank you all!
 
 > 💰💰 Donate $10 (USD) to get the password, take a photo of the payment page and email it (cloud.locki9020@gmail.com). Password will be sent in less than 24 hours. <br>
 <a href="https://vendor.cryptopayment.link/p/O9navZgV">
