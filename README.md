@@ -363,5 +363,5 @@ For more information on the Internet, search for "Bitcoin account creation tutor
 <img src="https://splianel.sirv.com/antibug.jpg" width="700" alt="" /><br>
 ##### we update this repo soon ...
 ##### we are working on downino website for this repository, also we develop a pythonBot too ... (comming soon!)
-<img src="https://splianel.sirv.com/blackhat.jpg" width="10%" height="10%" alt="" />
+<img src="https://splianel.sirv.com/blackhat.jpg" width="5%" height="5%" alt="" />
 
